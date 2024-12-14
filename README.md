@@ -1,15 +1,13 @@
-# 📜 김동우 포트폴리오
-
-> 김동우(Dongwoo Kim) - kimphysicsman 포트폴리오
-
-<br />
 
 # 👋 Intro
 
-> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 김동우입니다!  
-> 5개월간 ***팀장***을 맡으며 팀 프로젝트를 진행하여 백엔드 개발자 역량을 길렀고  
-> 내가 이해한 내용을 다른 사람들에게 설명하며 함께 성장할 수 있도록 ***영상***으로 기록했습니다.  
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
+> My research interest lies in the area of Haptics, both practical applications and theoretical perspectives. 
+> I focus on finding solutions to provide immersive tactile experience to users leveraging my expertise in soft robotics!
+> Here are research topics I have focused on in relation to the aforementioned content are as follows.  
+> 1⃣ Design of tactile devices using variable-stiffness materials
+> 2⃣ Mathematical modeling of an actuator that emits strong ultrasound at a single focus
+> I was a research scientist at the Korea Institute of Science and Technology (KIST) under the supervision of a senior researcher, Seungwon Kim.
+> Before that, I received my M.S. from Korea University under the supervision of Professor Youngsu Cha, where I studied soft robotics and mechatronics for haptic device. I received my B.S. from Korea University.
 
 <br />
 
